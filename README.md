@@ -1,6 +1,6 @@
 ## Zlexif's Vanilla Unicorn Job.
-join **[Discord] https://discord.gg/uP5KckeVN3** |
-
+- join **[Discord] https://discord.gg/uP5KckeVN3** |
+- All credits to ranjit for letting me use his code and alter it. Join his discord! -->  https://discord.gg/DwyEkkgWY3
 # Required
 - qb-core (https://github.com/qbcore-framework/qb-core)
 - qb-management (https://github.com/qbcore-framework/qb-management)
